@@ -13,7 +13,7 @@
 
 
 ##### Download the source code from GitHub to run the app on a local device.
-
+     https://github.com/LukasH411/Datamining_mit_R
 
 After downloading the code, you should check if you have all packages installed that are needed to run the app.
 The packages are:
